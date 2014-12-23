@@ -1,3 +1,23 @@
+.full {
+  background: url("img/background.png"); 
+}
+
+.post {
+  background-color: #fbfbfb;
+  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.1);
+  margin: 18px 0;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.flag {
+  max-height: 200px;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 /*  Reset ♥
     http://meyerweb.com/eric/tools/css/reset/
     v2.0 | 20110126
@@ -308,6 +328,17 @@ table {
   text-indent:-999em;
   }
 
+.nav {
+  border-top-width: 1px;
+  border-top-style: dotted;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  font-size: 21px;
+  line-height: 26px;
+  margin-bottom: 20px;
+  padding: 5px 0;
+}
+
 /* Global Layout
 ------------------------------------------------------- */
 .container {
@@ -321,6 +352,7 @@ table {
 .heading,
 .header {
   padding:20px 0;
+  text-align: center;
   }
   .header .title {
     font-size:15px;
