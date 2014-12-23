@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /samblog
 permalink: pretty
 markdown: rdiscount
 prose:
