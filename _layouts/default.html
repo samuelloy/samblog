@@ -17,10 +17,9 @@
         <img class='flag' src="http://www.semplesize.com/wp-content/uploads/semplesize_logo9.png" alt="">
         <div class='clearfix col12'>
           <div class='nav'>
-            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
+            <a class='{% if page.section == "blog" %}active{% endif %} navlink' href='{{site.baseurl}}/'>Blog</a>
+            <a class='{% if page.url == "about/" %}active{% endif %} navlink' href='{{site.baseurl}}/about'>About</a>
           </div>
-          <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
         </div>
       </div>
     </div>
