@@ -4,7 +4,7 @@ category: blog
 splash: ""
 tags: 
   - "null"
-published: false
+published: true
 title: Late To; Dangerdoom
 ---
 
