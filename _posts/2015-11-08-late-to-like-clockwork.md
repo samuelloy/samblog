@@ -2,10 +2,12 @@
 layout: blog
 category: blog
 splash: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Late to; ...Like Clockwork
 ---
+
 
 It’s a strange experience for me, but more and more bands that I have liked for a long time will release am album and I’ll just let it slide. The obsessive teenage fan in me is dying slowly, no longer do I track singles as they drop, and no longer do I make a note in my calendar for an album release.
 
@@ -20,4 +22,3 @@ As they say, hindsight is 20/20, and basically I’ve been a big idiot because t
 So check it out, and don’t worry about the originality. It doesn’t do anything, so baby what good does it do?
 
 -Sam
-
