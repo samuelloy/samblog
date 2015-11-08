@@ -8,7 +8,8 @@ tags:
 title: Late to; High Fidelity
 ---
 
-## Late to the Party
+
+## Late to the Party; High Fidelity
 
 ### Reviews of things you already know about
 
@@ -33,4 +34,3 @@ Obviously when you show this level of emotional depth in a novel it’s impossib
 I would advise that anyone give it a read, it’s short and well written, and if you really dig it feel free to send me a mixtape of how it made you feel.
 
 -Sam
-
