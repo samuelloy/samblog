@@ -10,7 +10,8 @@ title: Late to; High Fidelity
 
 
 
-****Reviews of Things You Probably Already Know About
+
+**Reviews of Things You Probably Already Know About
 
 ## Late to the Party; High Fidelity
 
