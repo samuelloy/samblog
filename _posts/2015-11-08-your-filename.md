@@ -4,7 +4,7 @@ category: blog
 splash: ""
 tags: null
 published: false
-title: ""
+title: "Late To: Hearthstone"
 ---
 
 If you know me, you’ll know that I love games. Not video games, or the kind teenage girls ‘don’t got time for’ (which is a lie for what it’s worth), I like card games.
