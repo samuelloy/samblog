@@ -8,7 +8,8 @@ tags:
 title: Late to; High Fidelity
 ---
 
-### Reviews of things you already know about
+
+### Reviews of Things You Probably Already Know About
 
 ## Late to the Party; High Fidelity
 
