@@ -2,14 +2,15 @@
 layout: blog
 category: blog
 splash: ""
-tags: null
+tags: 
+  - "null"
 published: false
 title: Late To; Dangerdoom
 ---
 
-## Late to the Party; Dangerdoom: The Mouse and the Mask
-
 ### -Reviews of things you already know about-
+
+## Late to the Party; Dangerdoom: The Mouse and the Mask
 
 _I can only assume that like me most people don’t have time to watch, read, or listen to every bit of content that gets put into the world. Things inevitably fall through the cracks, good things. This series will follow the greatest hits of things I’ve missed over the years._
 
@@ -31,4 +32,3 @@ The beats on this album are nothing short of spectacular. They’re mostly based
 Overall it’s an amazingly unique album, so give it a look if you’re after something a bit different. It’s very good, and I think it’s pretty unlikely you’ve ever heard anything quite like it.
 
 -Sam
-
