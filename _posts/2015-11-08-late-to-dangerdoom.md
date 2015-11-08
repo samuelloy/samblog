@@ -8,7 +8,8 @@ published: true
 title: Late To; Dangerdoom
 ---
 
-### -Reviews of things you already know about-
+
+###Reviews of Things You Probably Already Know About
 
 ## Late to the Party; Dangerdoom: The Mouse and the Mask
 
