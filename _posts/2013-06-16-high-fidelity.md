@@ -8,10 +8,9 @@ tags:
 title: Late to; High Fidelity
 ---
 
+### Reviews of things you already know about
 
 ## Late to the Party; High Fidelity
-
-### Reviews of things you already know about
 
 _I can only assume that like me most people don’t have time to watch, read, or listen to every bit of content that gets put into the world. Things inevitably fall through the cracks, good things. This series will follow the greatest hits of things I’ve missed over the years._
 
